@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.Random;
-
+// GitHubテスト用コメント
 public class MainActivity extends AppCompatActivity{
 
     String [][] poolcity = QuizDataCity.getPoolcity();
